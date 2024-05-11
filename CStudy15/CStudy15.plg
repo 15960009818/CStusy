@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CStudy15 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\1\AppData\Local\Temp\RSP1B17.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"CStudy15___Win32_Debug/CStudy15.pch" /YX /Fo"CStudy15___Win32_Debug/" /Fd"CStudy15___Win32_Debug/" /FD /GZ /c 
+"D:\QT\Document\Cstudy\CStudy15\Link.c"
+"D:\QT\Document\Cstudy\CStudy15\main.c"
+]
+Creating command line "cl.exe @C:\Users\1\AppData\Local\Temp\RSP1B17.tmp" 
+Creating temporary file "C:\Users\1\AppData\Local\Temp\RSP1B27.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"CStudy15___Win32_Debug/CStudy15.pdb" /debug /machine:I386 /out:"CStudy15___Win32_Debug/CStudy15.exe" /pdbtype:sept 
+.\CStudy15___Win32_Debug\Link.obj
+.\CStudy15___Win32_Debug\main.obj
+]
+Creating command line "link.exe @C:\Users\1\AppData\Local\Temp\RSP1B27.tmp"
+<h3>Output Window</h3>
+Compiling...
+Link.c
+main.c
+D:\QT\Document\Cstudy\CStudy15\main.c(24) : warning C4101: 'price' : unreferenced local variable
+D:\QT\Document\Cstudy\CStudy15\main.c(25) : warning C4101: 'info' : unreferenced local variable
+Linking...
+
+
+
+<h3>Results</h3>
+CStudy15.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

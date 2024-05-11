@@ -1,0 +1,283 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CStudy09 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\1\AppData\Local\Temp\RSP5872.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/CStudy09.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\QT\Document\Cstudy\CStudy09\Clogin.c"
+"D:\QT\Document\Cstudy\CStudy09\Main.c"
+"D:\QT\Document\Cstudy\CStudy09\Screen.c"
+"D:\QT\Document\Cstudy\CStudy09\CTools.c"
+"D:\QT\Document\Cstudy\CStudy09\CRegWin.c"
+"D:\QT\Document\Cstudy\CStudy09\CStuaff.c"
+]
+Creating command line "cl.exe @C:\Users\1\AppData\Local\Temp\RSP5872.tmp" 
+Creating temporary file "C:\Users\1\AppData\Local\Temp\RSP5873.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/CStudy09.pdb" /debug /machine:I386 /out:"Debug/CStudy09.exe" /pdbtype:sept 
+.\Debug\Clogin.obj
+.\Debug\Main.obj
+.\Debug\Screen.obj
+.\Debug\CTools.obj
+.\Debug\CRegWin.obj
+.\Debug\CStuaff.obj
+]
+Creating command line "link.exe @C:\Users\1\AppData\Local\Temp\RSP5873.tmp"
+<h3>Output Window</h3>
+Compiling...
+Clogin.c
+d:\microsoft visual studio\vc98\include\stdio.h(70) : error C2182: 'winRun' : illegal use of type 'void'
+d:\microsoft visual studio\vc98\include\stdio.h(70) : error C2054: expected '(' to follow 'winRun'
+d:\microsoft visual studio\vc98\include\stdio.h(70) : error C2085: 'size_t' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(77) : error C2085: 'wchar_t' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(83) : error C2085: 'wchar_t' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(83) : error C2146: syntax error : missing ',' before identifier 'wint_t'
+d:\microsoft visual studio\vc98\include\stdio.h(84) : error C2085: 'wchar_t' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(84) : error C2146: syntax error : missing ',' before identifier 'wctype_t'
+d:\microsoft visual studio\vc98\include\stdio.h(97) : error C2085: 'va_list' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(156) : error C2085: 'FILE' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(220) : error C2085: 'FILE' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(220) : error C2146: syntax error : missing ',' before identifier '_iob'
+d:\microsoft visual studio\vc98\include\stdio.h(220) : error C2143: syntax error : missing ';' before '['
+d:\microsoft visual studio\vc98\include\stdio.h(275) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(275) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(275) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(275) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(276) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(276) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(276) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(276) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(276) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(281) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(284) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(284) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(284) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(284) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(285) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(285) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(285) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(285) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(291) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(294) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(294) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(294) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(294) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(295) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(295) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(295) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(295) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(296) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(296) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(296) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(296) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(297) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(297) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(297) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(297) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(299) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(299) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(299) : error C2059: syntax error : ','
+d:\microsoft visual studio\vc98\include\stdio.h(299) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(300) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(300) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(300) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(300) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(300) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(305) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(305) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(305) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(305) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(309) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(310) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(310) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(310) : error C2059: syntax error : ','
+d:\microsoft visual studio\vc98\include\stdio.h(310) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(311) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(311) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(311) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(311) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(311) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(313) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(313) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(313) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(313) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(313) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2143: syntax error : missing '{' before '__cdecl'
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2081: 'size_t' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2081: 'size_t' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(316) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(316) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(316) : error C2059: syntax error : ','
+d:\microsoft visual studio\vc98\include\stdio.h(316) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(317) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(317) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(317) : error C2059: syntax error : ','
+d:\microsoft visual studio\vc98\include\stdio.h(317) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(318) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(318) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(318) : error C2059: syntax error : ','
+d:\microsoft visual studio\vc98\include\stdio.h(318) : fatal error C1003: error count exceeds 100; stopping compilation
+Main.c
+Screen.c
+d:\qt\document\cstudy\cstudy09\clogin.h(3) : error C2182: 'winRun' : illegal use of type 'void'
+d:\qt\document\cstudy\cstudy09\clogin.h(3) : error C2054: expected '(' to follow 'winRun'
+d:\qt\document\cstudy\cstudy09\clogin.h(3) : error C2085: 'loginWin' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(32) : warning C4086: expected pragma parameter to be '1', '2', '4', '8', or '16'
+d:\microsoft visual studio\vc98\include\stdio.h(70) : error C2085: 'size_t' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(77) : error C2085: 'wchar_t' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(83) : error C2085: 'wchar_t' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(83) : error C2146: syntax error : missing ',' before identifier 'wint_t'
+d:\microsoft visual studio\vc98\include\stdio.h(84) : error C2085: 'wchar_t' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(84) : error C2146: syntax error : missing ',' before identifier 'wctype_t'
+d:\microsoft visual studio\vc98\include\stdio.h(97) : error C2085: 'va_list' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(156) : error C2085: 'FILE' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(220) : error C2085: 'FILE' : not in formal parameter list
+d:\microsoft visual studio\vc98\include\stdio.h(220) : error C2146: syntax error : missing ',' before identifier '_iob'
+d:\microsoft visual studio\vc98\include\stdio.h(220) : error C2143: syntax error : missing ';' before '['
+d:\microsoft visual studio\vc98\include\stdio.h(275) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(275) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(275) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(275) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(276) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(276) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(276) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(276) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(276) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(281) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(284) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(284) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(284) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(284) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(285) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(285) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(285) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(285) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(291) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(294) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(294) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(294) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(294) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(295) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(295) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(295) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(295) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(296) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(296) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(296) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(296) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(297) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(297) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(297) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(297) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(299) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(299) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(299) : error C2059: syntax error : ','
+d:\microsoft visual studio\vc98\include\stdio.h(299) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(300) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(300) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(300) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(300) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(300) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(305) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(305) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(305) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(305) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(309) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(310) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(310) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(310) : error C2059: syntax error : ','
+d:\microsoft visual studio\vc98\include\stdio.h(310) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(311) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(311) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(311) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(311) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(311) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(313) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(313) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(313) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(313) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(313) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2143: syntax error : missing '{' before '__cdecl'
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2081: 'size_t' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2081: 'size_t' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(314) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2081: 'FILE' : name in formal parameter list illegal
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(315) : error C2059: syntax error : ';'
+d:\microsoft visual studio\vc98\include\stdio.h(316) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(316) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(316) : error C2059: syntax error : ','
+d:\microsoft visual studio\vc98\include\stdio.h(316) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(317) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(317) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(317) : error C2059: syntax error : ','
+d:\microsoft visual studio\vc98\include\stdio.h(317) : error C2059: syntax error : ')'
+d:\microsoft visual studio\vc98\include\stdio.h(318) : error C2143: syntax error : missing ')' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(318) : error C2143: syntax error : missing '{' before '*'
+d:\microsoft visual studio\vc98\include\stdio.h(318) : fatal error C1003: error count exceeds 100; stopping compilation
+CTools.c
+D:\QT\Document\Cstudy\CStudy09\CTools.c(21) : error C2065: 'login' : undeclared identifier
+D:\QT\Document\Cstudy\CStudy09\CTools.c(21) : error C2224: left of '.ctrlCount' must have struct/union type
+D:\QT\Document\Cstudy\CStudy09\CTools.c(23) : error C2224: left of '.ctrlArr' must have struct/union type
+D:\QT\Document\Cstudy\CStudy09\CTools.c(25) : error C2065: 'LABEL' : undeclared identifier
+D:\QT\Document\Cstudy\CStudy09\CTools.c(25) : error C2051: case expression not constant
+D:\QT\Document\Cstudy\CStudy09\CTools.c(25) : warning C4013: 'showLabel' undefined; assuming extern returning int
+D:\QT\Document\Cstudy\CStudy09\CTools.c(25) : error C2224: left of '.ctrlArr' must have struct/union type
+D:\QT\Document\Cstudy\CStudy09\CTools.c(26) : error C2065: 'EDIT' : undeclared identifier
+D:\QT\Document\Cstudy\CStudy09\CTools.c(26) : error C2051: case expression not constant
+D:\QT\Document\Cstudy\CStudy09\CTools.c(26) : warning C4013: 'showEdit' undefined; assuming extern returning int
+D:\QT\Document\Cstudy\CStudy09\CTools.c(26) : error C2224: left of '.ctrlArr' must have struct/union type
+D:\QT\Document\Cstudy\CStudy09\CTools.c(27) : error C2065: 'BUTTON' : undeclared identifier
+D:\QT\Document\Cstudy\CStudy09\CTools.c(27) : error C2051: case expression not constant
+D:\QT\Document\Cstudy\CStudy09\CTools.c(27) : warning C4013: 'showButton' undefined; assuming extern returning int
+D:\QT\Document\Cstudy\CStudy09\CTools.c(27) : error C2224: left of '.ctrlArr' must have struct/union type
+D:\QT\Document\Cstudy\CStudy09\CTools.c(31) : error C2143: syntax error : missing ';' before 'type'
+D:\QT\Document\Cstudy\CStudy09\CTools.c(33) : error C2143: syntax error : missing ';' before 'type'
+D:\QT\Document\Cstudy\CStudy09\CTools.c(35) : error C2065: 'maxlen' : undeclared identifier
+D:\QT\Document\Cstudy\CStudy09\CTools.c(36) : error C2065: 'ch' : undeclared identifier
+D:\QT\Document\Cstudy\CStudy09\CTools.c(39) : error C2065: 'inputType' : undeclared identifier
+D:\QT\Document\Cstudy\CStudy09\CTools.c(57) : error C2065: 'mode' : undeclared identifier
+D:\QT\Document\Cstudy\CStudy09\CTools.c(58) : error C2065: 'arr' : undeclared identifier
+D:\QT\Document\Cstudy\CStudy09\CTools.c(58) : error C2109: subscript requires array or pointer type
+D:\QT\Document\Cstudy\CStudy09\CTools.c(58) : error C2106: '=' : left operand must be l-value
+D:\QT\Document\Cstudy\CStudy09\CTools.c(60) : error C2109: subscript requires array or pointer type
+D:\QT\Document\Cstudy\CStudy09\CTools.c(60) : error C2106: '=' : left operand must be l-value
+D:\QT\Document\Cstudy\CStudy09\CTools.c(66) : error C2109: subscript requires array or pointer type
+D:\QT\Document\Cstudy\CStudy09\CTools.c(66) : error C2106: '=' : left operand must be l-value
+CRegWin.c
+D:\QT\Document\Cstudy\CStudy09\CRegWin.c(60) : warning C4047: 'function' : 'int ' differs in levels of indirection from 'int *'
+D:\QT\Document\Cstudy\CStudy09\CRegWin.c(60) : warning C4024: 'addStaff' : different types for formal and actual parameter 2
+CStuaff.c
+D:\QT\Document\Cstudy\CStudy09\CStuaff.c(4) : fatal error C1083: Cannot open include file: 'CStuaff.h': No such file or directory
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+CStudy09.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

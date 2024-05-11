@@ -1,0 +1,9 @@
+D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/CMakeFiles/QTStudy.dir
+D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/CMakeFiles/edit_cache.dir
+D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/CMakeFiles/rebuild_cache.dir
+D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/CMakeFiles/list_install_components.dir
+D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/CMakeFiles/install.dir
+D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/CMakeFiles/install/local.dir
+D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/CMakeFiles/install/strip.dir
+D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/CMakeFiles/QTStudy_autogen_timestamp_deps.dir
+D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/CMakeFiles/QTStudy_autogen.dir

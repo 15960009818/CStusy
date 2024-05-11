@@ -1,0 +1,24 @@
+# ninja log v5
+21	636	7359306790757515	CMakeFiles/homework12.dir/main.c.obj	1e400a324409bd49
+14	174	7359306785661846	CMakeFiles/homework12.dir/Cstuaff.c.obj	c94c8a085b0c73fd
+8	622	7359306790622451	CMakeFiles/homework12.dir/CTools.c.obj	e5211da50ba4e1d8
+0	163	7359311153236990	build.ninja	9aac5adf6ba20ce2
+8	98	7359307995596837	CMakeFiles/homework12.dir/CRegWin.c.obj	c8a7ce4754c3b872
+2	59	7359308621732607	CMakeFiles/homework12.dir/CLogin.c.obj	cf7159d039c0f8b9
+4	180	7359306786114155	CMakeFiles/homework12.dir/Screen.c.obj	bc542216812cb814
+59	166	7359308622776174	homework12.exe	7751ed2c08349462
+5	121	7359313065244185	CMakeFiles/homework12.dir/Cstuaff.c.obj	c94c8a085b0c73fd
+14	138	7359313065415604	CMakeFiles/homework12.dir/Screen.c.obj	bc542216812cb814
+20	139	7359313065415604	CMakeFiles/homework12.dir/CLogin.c.obj	cf7159d039c0f8b9
+27	151	7359313065547095	CMakeFiles/homework12.dir/CRegWin.c.obj	c8a7ce4754c3b872
+8	522	7359313069240281	CMakeFiles/homework12.dir/main.c.obj	1e400a324409bd49
+1	525	7359313069279888	CMakeFiles/homework12.dir/CTools.c.obj	e5211da50ba4e1d8
+525	656	7359313070568167	homework12.exe	7751ed2c08349462
+2	63	7359317301270683	CMakeFiles/homework12.dir/CLogin.c.obj	cf7159d039c0f8b9
+63	163	7359317302224664	homework12.exe	7751ed2c08349462
+51	1045	7360076058114279	CMakeFiles/homework12.dir/Screen.c.obj	bc542216812cb814
+46	1046	7360076058124280	CMakeFiles/homework12.dir/CLogin.c.obj	cf7159d039c0f8b9
+2	2668	7360076074355780	CMakeFiles/homework12.dir/CTools.c.obj	e5211da50ba4e1d8
+2668	3182	7360076079422993	homework12.exe	7751ed2c08349462
+7	76	7360124548053405	CMakeFiles/homework12.dir/CLogin.c.obj	cf7159d039c0f8b9
+2	630	7360124553570551	CMakeFiles/homework12.dir/main.c.obj	1e400a324409bd49

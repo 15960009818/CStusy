@@ -1,0 +1,3 @@
+D:/QT/Document/Cstudy/Cstudy7/cmake-build-debug/CMakeFiles/Cstudy7.dir
+D:/QT/Document/Cstudy/Cstudy7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/QT/Document/Cstudy/Cstudy7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

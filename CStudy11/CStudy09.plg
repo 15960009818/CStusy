@@ -1,0 +1,50 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CStudy09 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\1\AppData\Local\Temp\RSP1A8.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/CStudy09.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\QT\Document\Cstudy\CStudy11\controller\CLogin.c"
+"D:\QT\Document\Cstudy\CStudy11\controller\CRegWin.c"
+"D:\QT\Document\Cstudy\CStudy11\controller\CStuaff.c"
+"D:\QT\Document\Cstudy\CStudy11\controller\CTools.c"
+"D:\QT\Document\Cstudy\CStudy11\Main.c"
+"D:\QT\Document\Cstudy\CStudy11\static\Screen.c"
+]
+Creating command line "cl.exe @C:\Users\1\AppData\Local\Temp\RSP1A8.tmp" 
+Creating temporary file "C:\Users\1\AppData\Local\Temp\RSP1A9.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/CStudy09.pdb" /debug /machine:I386 /out:"Debug/CStudy09.exe" /pdbtype:sept 
+.\Debug\CLogin.obj
+.\Debug\CRegWin.obj
+.\Debug\CStuaff.obj
+.\Debug\CTools.obj
+.\Debug\Main.obj
+.\Debug\Screen.obj
+]
+Creating command line "link.exe @C:\Users\1\AppData\Local\Temp\RSP1A9.tmp"
+<h3>Output Window</h3>
+Compiling...
+CLogin.c
+CRegWin.c
+CStuaff.c
+CTools.c
+Main.c
+Screen.c
+Linking...
+LIBCD.lib(wincrt0.obj) : error LNK2001: unresolved external symbol _WinMain@16
+Debug/CStudy09.exe : fatal error LNK1120: 1 unresolved externals
+Ö´ÐÐ link.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+CStudy09.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

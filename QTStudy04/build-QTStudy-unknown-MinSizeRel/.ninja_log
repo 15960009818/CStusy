@@ -1,0 +1,9 @@
+# ninja log v5
+1	581	7343499596697005	QTStudy_autogen/timestamp	d91a6b495ddb1fee
+1	581	7343499596697005	QTStudy_autogen/mocs_compilation.cpp	d91a6b495ddb1fee
+1	581	7343499596697005	D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/QTStudy_autogen/timestamp	d91a6b495ddb1fee
+1	581	7343499596697005	D:/QT/Document/Cstudy/QTStudy04/build-QTStudy-unknown-MinSizeRel/QTStudy_autogen/mocs_compilation.cpp	d91a6b495ddb1fee
+590	2278	7343499614422479	CMakeFiles/QTStudy.dir/widget.cpp.obj	d3cd75c192c7fb44
+587	2319	7343499614851258	CMakeFiles/QTStudy.dir/QTStudy_autogen/mocs_compilation.cpp.obj	abec9196f4bb28bc
+581	2337	7343499615045921	CMakeFiles/QTStudy.dir/main.cpp.obj	6ecf7893b8c3992a
+2337	2822	7343499619855391	QTStudy.exe	42846c4097c903cc

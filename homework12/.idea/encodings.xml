@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CLogin.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/CLogin.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/CRegWin.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/CRegWin.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/CTools.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/CTools.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Cstuaff.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Cstuaff.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Screen.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Screen.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.c" charset="GBK" />
+  </component>
+</project>
